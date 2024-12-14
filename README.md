@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @hyepr
 - 👀 I’m interested in APIs, Minecraft, Java Script and Sports
-- 🌱 I’m currently learning NodeJS, HTML and Spanish
-- 💞️ I’m looking to collaborate on CraftCord and other Projects
 - 📫 How to reach me: hyepr@outlook.com
 
 <!---
